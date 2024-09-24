@@ -1,0 +1,8 @@
+﻿body {
+   font-family:'Times New Roman';
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #4466ab !important;
+}

@@ -1,0 +1,26 @@
+﻿img{
+    width:50%;
+}
+
+body {
+    background-color: #0f1b33;
+    color: White;
+   
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman';
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #4466ab !important;
+}
+
+.title {
+    
+    top: 21%;
+    left: 34%;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 4vw;
+    color: white;
+}

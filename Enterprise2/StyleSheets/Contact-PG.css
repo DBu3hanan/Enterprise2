@@ -1,0 +1,87 @@
+﻿
+.title {
+    position: absolute;
+    top: 21%;
+    left: 34%;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 5.5vw;
+    color: white;
+}
+
+body {
+    background-color: #0f1b33;
+    color: White;
+    background-image: url("/Images/Image 2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman';
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #4466ab !important;
+}
+
+
+.wrapper {
+    background: #0f1b33;
+    max-width: 58%;
+    width: 45%;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: -5px 10px 15px rgba(0, 0, 0, 0.6);
+    border-color: gold;
+    margin-top: 10%;
+    text-align: center;
+    position: absolute;
+    left: 28%;
+}
+
+.wrapper2 {
+    background: #0f1b33;
+/*    max-width: 70%;*/
+    width: 50%;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: -5px 10px 15px rgba(0, 0, 0, 0.6);
+    border-color: gold;
+    
+    text-align: center;
+    position: absolute;
+    left: 28%;
+}
+
+i {
+    color: white;
+}
+
+.w3-button:hover {
+    color: #000 !important;
+    background-color: gold !important
+}
+
+.w3-padding-large {
+    padding: 16px 30px !important
+}
+
+.w3-bar .w3-bar-item {
+    padding: 8px 26px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0
+}
+
+.nav-link {
+    display: block;
+    padding: 5px;
+    font-size: 110%;
+    /*    font-weight: 500;*/
+    color: white;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+    .nav-link:hover {
+        color: black;
+    }
